@@ -1294,7 +1294,6 @@
                     </records>
                 </table>
             </value>
-            <value name="writable">1</value>
         </record>
         <record>
             <value name="name">trainingSet</value>
@@ -2150,7 +2149,6 @@
                     </records>
                 </table>
             </value>
-            <value name="writable">1</value>
         </record>
         <record>
             <value name="name">testSet</value>
@@ -3006,7 +3004,6 @@
                     </records>
                 </table>
             </value>
-            <value name="writable">1</value>
         </record>
     </records>
 </table>
